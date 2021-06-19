@@ -7,7 +7,7 @@ This repo includes all my Take Home Assignment(THA) given in frontend module of 
 
 | Days (click to view code)         | Topics Covered      | Live Preview                                                                 |
 | --------------------------------- | ------------------- | ---------------------------------------------------------------------------- |
-| [Day1](./day-01)                  | Basic Html From     | [link](https://vinitpal.github.io/Devsnest-Frontend/day-01/index.html)       |
+| [Day1](./day-01 )                  | Basic Html From     | [link](https://vinitpal.github.io/Devsnest-Frontend/day-01/index.html)       |
 | [Day2](./day-02)                  | Basic CSS Form      | [link](https://vinitpal.github.io/Devsnest-Frontend/day-02)                  |
 | [Day3](./day-03)                  | Resume with css     | [link](https://vinitpal.github.io/Devsnest-Frontend/day-03)                  |
 | [Day4](./day-04)                  | Clock with css      | [link](https://vinitpal.github.io/Devsnest-Frontend/day-04)                  |
